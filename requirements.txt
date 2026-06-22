@@ -1,0 +1,7 @@
+qrcode
+pillow
+flask
+requests
+sqlite3
+reportlab
+mp4
